@@ -1,2 +1,2 @@
-# wireFd
-Technology specific amendment to the ForwardingDomain class for documenting potential forwarding according to IEEE802.3.
+# wireLink
+Technology specific amendment to the Link class for documenting potential forwarding according to IEEE802.3.
